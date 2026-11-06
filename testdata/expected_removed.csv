@@ -1,0 +1,5 @@
+__row_index__,__rule__,__reason__,id,name,email,age,status
+2,duplicates,полный дубликат предыдущей строки,1,Alice,alice@example.com,30,active
+3,empty,все ячейки пустые,,,,,
+4,errors,ошибочные значения: age,3,Charlie,charlie@example.com,abc,active
+5,errors,ошибочные значения: email,4,Dan,#N/A,40,active
